@@ -1,0 +1,10 @@
+.num_box{height:20px;overflow: hidden;}
+.num{list-style-type:none;display:inline-block;padding:2px;vertical-align: top;}
+.num li{height:20px;line-height: 20px;}
+
+.num_animate{
+	transition:margin-top 1s;
+}
+
+
+
